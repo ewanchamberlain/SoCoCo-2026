@@ -1,0 +1,5 @@
+main:
+  - title: "Details"
+    url: /details
+  - title: "Schedule"
+    url: /schedule

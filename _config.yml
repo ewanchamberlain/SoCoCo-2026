@@ -1,0 +1,32 @@
+title: SoCoCo 2026
+name: ""
+plugins:
+  - jekyll-remote-theme
+  - jekyll-include-cache
+remote_theme: mmistakes/minimal-mistakes@4.27.3
+include: ["_pages"]
+nav_links:
+  - name: Home
+    url: /
+  - name: Details
+    url: /details/
+  - name: Schedule
+    url: /schedule/
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
+
+minimal_mistakes_skin: "dark"
+feed:
+  disable: true
+atom_feed:
+  hide: true
