@@ -5,23 +5,21 @@ layout: splash
 ---
 ## Schedule
 
-
-| 10:00 -- 10:30 |  Registration  |
+| Time | Session |
 | -------------- | -------------- |
-|   **Session 1** *Chair TBC*    |
+| 13:00 – 13:15 | **Welcome & Opening Remarks** |
 | -------------- | -------------- |
-| *TBC*          |     Lunch      |
+| 13:15 – 13:35 | **Talk 1** – *Speaker TBC* (15 min + 5 min) |
+| 13:35 – 13:55 | **Talk 2** – *Speaker TBC* (15 min + 5 min) |
+| 13:55 – 14:15 | **Talk 3** – *Speaker TBC* (15 min + 5 min) |
 | -------------- | -------------- |
-|   **Session 2** *Chair TBC*     |
+| 14:15 – 14:30 | ☕ **Coffee Break** |
 | -------------- | -------------- |
-| *TBC*          |     Coffee     |
+| 14:30 – 14:50 | **Talk 4** – *Speaker TBC* (15 min + 5 min) |
+| 14:50 – 15:10 | **Talk 5** – *Speaker TBC* (15 min + 5 min) |
+| 15:10 – 15:30 | **Talk 6** – *Speaker TBC* (15 min + 5 min) |
 | -------------- | -------------- |
-|   **Session 3** *Chair TBC*     |
-| -------------- | -------------- |
-|         **Meeting End**         |
-| -------------- | -------------- |
-| -------------- | -------------- |
-| *TBC*--Late    | Dinner & drinks|
+| 00:00 | **Meeting End** |
 | -------------- | -------------- |
 
 
