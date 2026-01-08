@@ -11,7 +11,7 @@ layout: splash
 **Where:** University of Sussex 
 Details on how to get to the University via different modes of transport are available [on the University's website](https://www.sussex.ac.uk/about/directions)
 
-Room TBC.
+The meeting will be in [Jubilee 144](https://maps.app.goo.gl/gJVYjV2CsdaMYr6n7).
 
 
 **Coffee:** The University has [a number of cafes on site](https://www.sussex.ac.uk/about/campus/food/outlets)
@@ -24,6 +24,6 @@ Room TBC.
 
 
 **Contacts:** The conference organisers are:
-- Ewan Chamberlain (he/him) [<E.A.Chamberlain@sussex.ac.uk>](mailto:ec719@sussex.ac.uk)
-- Maxwell Maltz (he/him) [<M.Maltz@sussex.ac.uk>](mailto:M.Maltz@sussex.ac.uk)
+- Ewan Chamberlain (he/him) [<E.A.Chamberlain@sussex.ac.uk>](mailto:E.A.Chamberlain@sussex.ac.uk)
 - Amirah Aljazaeri (she/her) [<aa2409@sussex.ac.uk>](mailto:aa2409@sussex.ac.uk)
+- Arwa Abdulghafour (she/her) [<A.Abdulghafour@sussex.ac.uk>](mailto:A.Abdulghafour@sussex.ac.uk)
