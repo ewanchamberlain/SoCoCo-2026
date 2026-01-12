@@ -14,7 +14,7 @@ layout: splash
 | 13:45 - 14:05 | [Sam Philipsborn](#sam-philipsborn) | Towards an empirical halo mass function with 4MOST |
 | 14:05 - 14:25 | [Nastassia Grimm](#nastassia-grimm) | Model-independent tests of gravity with the Weyl potential evolution |
 | 14:25 - 14:45 | [Chris Byrnes](#chris-byrnes) | Introducing primordial black holes |
-| 14:45 - 15:05 | [Robson Christie](#robson-christie) | Inflationary False Vacua: Decoherence and Non-Adiabatic Dynamics |
+| 14:45 - 15:05 | [Robson Christie](#robson-christie) | Cosmic Lockdown: When Decoherence Saves the Universe from Tunneling |
 | 15:05 - 15:35 | ☕ **Coffee Break** |
 | | **Session 2**  | *Chair: Ewan Chamberlain* |
 | 15:35 - 15:55 | [Theo Steele](#theo-steele) | An efficient model of cosmology dependence in the covariance matrix of the matter power spectrum |
@@ -43,8 +43,9 @@ While black holes are typically known as the remnants of stellar collapse, some 
 
 ### Robson Christie
 *University of Portsmouth*\
-**Inflationary False Vacua: Decoherence and Non-Adiabatic Dynamics**\
-We explore the dynamics of a scalar field in an asymmetric quartic double-well potential during inflation, focussing on the interplay between vacuum selection and environmental decoherence.  Our model consists of a real scalar field linearly coupled to environmental degrees of freedom, as well as stochastic fluctuations from short-wavelength modes crossing the Hubble scale, enabling a systematic derivation of both Markovian and non-Markovian master equations. Due to the complexity of the resulting dynamics, we rely on numerical solutions to explore the behaviour of this system.
+**Cosmic Lockdown: When Decoherence Saves the Universe from Tunneling**\
+I will discuss how decoherence from cosmological environments modifies vacuum selection and tunneling for a scalar field in an inflationary spacetime with an asymmetric double-well potential, treating the long-wavelength field as an open quantum system coupled  to other spectator fields. This enables controlled derivations of Markovian and non-Markovian master equations (and stochastic unravelings) that can be solved numerically to track vacuum populations and the loss of coherence. The main result is that decoherence rapidly suppresses interference between vacua but typically only weakly shifts their relative occupation: heavy fields (above the Hubble scale) relax adiabatically toward the true vacuum, while light fields can develop non-adiabatically enhanced false-vacuum occupation. Once decohered, tunneling is strongly inhibited, effectively freezing the field into the stochastically selected minimum via an inflationary quantum-Zeno “cosmic lockdown” mechanism [(arXiv:2512.14204)](https://www.arxiv.org/abs/2512.14204).
+
 
 ### Theo Steele
 *University of Sussex*\
